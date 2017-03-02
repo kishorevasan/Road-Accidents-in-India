@@ -14,6 +14,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 India is the second largest country in terms of population and there is no shock that there are millions of cars cruising through the road every minute. This project uses the data set of number of accidents that happened in 2014, split in a three hour window of the dy, in the entire year for all states in India. 
 
+There is a common conception that most road accidents happen during the night due to drinking and driving, but infact this statement is only partially true. This project uses data visualization to help people realize that most accidents happen during the day, which can be easily avoided. We must look closer into the data set and not scrape through it concluding that most accidents happen at night and can't be avoided. 
+
 Given below is a heat map of accidents count in 2014 as the time of day progresses.
 
 
