@@ -7,3 +7,4 @@ There is a common conception that most road accidents happen during the night du
 
 View the animation of the map of india and a line chart at [Link](https://kishorevasan.github.io/Road-Accidents-in-India/)
 
+To see the code for the scatter plot visualization, go to [Link](https://github.com/kishorevasan/accidents-in-india)
